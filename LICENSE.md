@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) Robert-Cristian Chiribuc
+Copyright (c) The Bug Software Development & Consulting S.R.L.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
