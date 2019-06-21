@@ -1,0 +1,48 @@
+{
+    "name": "thebugsoftware/stare-tva",
+    "description": "A simple PHP Library for checking the VAT status for Romanian companies.",
+    "keywords": [
+        "stare-tva"
+    ],
+    "homepage": "https://github.com/thebugsoftware/stare-tva",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Robert-Cristian Chiribuc",
+            "email": "robert.chiribuc@thebug.ro",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "ext-json" : "*",
+        "ext-curl" : "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0",
+        "symfony/var-dumper": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "TheBugSoftware\\StareTva\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "TheBugSoftware\\StareTva\\Tests\\": "tests",
+            "TheBugSoftware\\Helpers\\": "helpers"
+        },
+        "files": [
+            "helpers/helper.php"
+          ]
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
