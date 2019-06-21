@@ -120,7 +120,7 @@ If you discover any security related issues, please email robert.chiribuc@thebug
 
 ## Credits
 
-- [Robert-Cristian Chiribuc](https://github.com/thebugsoftware)
+- [Robert-Cristian Chiribuc](https://github.com/chiribuc)
 - [All Contributors](../../contributors)
 
 ## License
