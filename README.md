@@ -1,6 +1,4 @@
 ![Stare TVA](https://banners.beyondco.de/Stare%20TVA.png?theme=dark&packageName=thebugsoftware%2Fstare-tva&pattern=circuitBoard&style=style_1&description=A+simple+PHP+Library+for+checking+the+VAT+status+for+Romanian+companies.&md=1&fontSize=100px&images=code)
-
-<p align="center">
     
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/thebugsoftware/stare-tva.svg?style=flat-square)](https://packagist.org/packages/thebugsoftware/stare-tva)
 [![Build Status](https://img.shields.io/travis/thebugsoftware/stare-tva/master.svg?style=flat-square)](https://travis-ci.org/thebugsoftware/stare-tva)
@@ -9,7 +7,6 @@
 [![coverage](https://codecov.io/gh/thebugsoftware/stare-tva/branch/master/graph/badge.svg?style=flat-square)](https://codecov.io/gh/thebugsoftware/stare-tva)
 [![License](https://img.shields.io/packagist/l/thebugsoftware/stare-tva.svg?style=flat-square)](https://github.com/thebugsoftware/stare-tva/blob/master/LICENSE.md)
 
-</p>
 
 A simple PHP Library for checking the VAT status for Romanian companies.
 
